@@ -1,6 +1,6 @@
 # Brain_Tumor_Detection--using-CNN
 ## CNN
-In this project, I will build a brain tumor recognition model using CNN. The dataset you can get here:
+In this project, I will build a brain tumor recognition model using CNN.
  
 In this project I will use Pytorch.
 + If you use Google Colab then you don't need to install just import torch normally
