@@ -15,4 +15,6 @@ Structure of the CNN network:
 + Use convolution to find features in spatial data (such as images).
 + Usually has less number of parameters because of shared weights in convolutional layers.
 
-  ![A-CNN-architecture-to-classify-handwritten-digits](https://github.com/Quang1129/Brain_Tumor_Detection--using-CNN/assets/72682141/8cf11d49-cf9d-4afd-89b3-2fa4c590c989)
+  
+![R](https://github.com/Quang1129/Brain_Tumor_Detection--using-CNN/assets/72682141/d5ce62d2-9ec7-4b37-8a29-cd71dde56622)
+
